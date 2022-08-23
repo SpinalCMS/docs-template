@@ -18,3 +18,6 @@ This theme comes with two views/layouts:
 <a href="https://spinalcms.com/" target="_blank">
   <img src="https://user-images.githubusercontent.com/988051/183079316-af747ef2-42a9-47d8-9a0c-488ed4b6a689.jpg" alt="Spinal CMS logo" width="200"/>
 </a>
+
+## Related repo's
+- [Bridgetown documentation template using Tailwind CSS](https://github.com/SpinalCMS/bridgetown-docs-template)
