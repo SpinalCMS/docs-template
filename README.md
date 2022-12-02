@@ -22,3 +22,4 @@ This theme comes with two views/layouts:
 ## Related repo's
 - [Bridgetown documentation template using Tailwind CSS](https://github.com/SpinalCMS/bridgetown-docs-template)
 - [11ty documentation template using Tailwind CSS](https://github.com/SpinalCMS/11ty-docs-template)
+- [Astro documentation template using Tailwind CSS](https://github.com/SpinalCMS/astro-docs-template)
