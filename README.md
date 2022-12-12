@@ -2,6 +2,8 @@
 
 This is a pure HTML and Tailwind CSS documentation template. As it uses no other dependency than Tailwind CSS, it’s plug and play with any static site generator.
 
+<img src="https://github.com/spinalcms/docs-template/blob/main/docs-preview.jpg?raw=true" alt="preview of the documentation theme built with Tailwind CSS" />
+
 This theme comes with two views/layouts:
 
 - index view; perfect for quick links to important docs
